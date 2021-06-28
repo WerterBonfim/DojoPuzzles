@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werter.DojoPuzzles.ConsoleApp", "Werter.DojoPuzzles.ConsoleApp\Werter.DojoPuzzles.ConsoleApp.csproj", "{D141C90B-38C7-438F-863B-B11642A26335}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werter.DojoPuzzles.TDD", "Werter.DojoPuzzles.TDD\Werter.DojoPuzzles.TDD.csproj", "{F8B60D1D-18D0-4563-BA1F-0637BC8CCBE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D141C90B-38C7-438F-863B-B11642A26335}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D141C90B-38C7-438F-863B-B11642A26335}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D141C90B-38C7-438F-863B-B11642A26335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B60D1D-18D0-4563-BA1F-0637BC8CCBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B60D1D-18D0-4563-BA1F-0637BC8CCBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B60D1D-18D0-4563-BA1F-0637BC8CCBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B60D1D-18D0-4563-BA1F-0637BC8CCBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
